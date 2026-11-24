@@ -1,0 +1,2 @@
+app.message=Hellp from centralized configration
+eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka
